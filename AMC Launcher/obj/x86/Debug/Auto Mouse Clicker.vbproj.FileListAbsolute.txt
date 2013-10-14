@@ -1,0 +1,14 @@
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\Auto Mouse Clicker.exe
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\Auto Mouse Clicker.pdb
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\Auto Mouse Clicker.xml
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\mouseclicker.dll
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\mouseclicker.pdb
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\bin\Debug\mouseclicker.xml
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\Auto_Mouse_Clicker.Form1.resources
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\Auto_Mouse_Clicker.Resources.resources
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\Auto Mouse Clicker.exe
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\Auto Mouse Clicker.xml
+c:\users\ruben\documents\visual studio 2010\Projects\Auto Mouse Clicker\AMC Launcher\obj\x86\Debug\Auto Mouse Clicker.pdb

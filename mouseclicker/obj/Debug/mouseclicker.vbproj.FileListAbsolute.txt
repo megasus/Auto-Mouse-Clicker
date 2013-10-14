@@ -1,0 +1,52 @@
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\bin\Debug\mouseclicker.pdb
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\bin\Debug\mouseclicker.xml
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.Form17.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.Form20.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.Resources.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.xml
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.pdb
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.Form19.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\bin\Debug\mouseclicker.dll
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.dll
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\obj\Debug\mouseclicker.Form18.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\WoW GES Launcher 3.5 - ohne Krypton\mouseclicker\bin\Debug\mouseclicker.dll.config
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.pdb
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.xml
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form17.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form18.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form19.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form20.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Resources.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.xml
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.pdb
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.autoclick2.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.exe.config
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.exe
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form1.resources
+C:\Users\Ruben\Documents\Visual Studio 2010\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.exe
+I:\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.exe.config
+I:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.exe
+I:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.xml
+I:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.pdb
+H:\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.exe.config
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.exe
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.xml
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.pdb
+H:\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.exe
+H:\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.pdb
+H:\Projects\Auto Mouse Clicker\mouseclicker\bin\Debug\mouseclicker.xml
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.vbprojResolveAssemblyReference.cache
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.autoclick2.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form1.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form17.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form18.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form19.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Form20.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.Resources.resources
+H:\Projects\Auto Mouse Clicker\mouseclicker\obj\Debug\mouseclicker.vbproj.GenerateResource.Cache
