@@ -1,0 +1,39 @@
+# Generated #
+#############
+bin/
+Debug/
+Release/
+Namcore Studio.suo
+Thumbs.db
+*DotSettings
+*vshost
+*suo
+*log
+*exe
+*user
+*vsp
+*psess
+*db
+#Visual Studio Dateien ignorieren
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+[Rr]elease*/
+_ReSharper*/
+bin*/
